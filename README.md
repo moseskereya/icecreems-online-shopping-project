@@ -1,1 +1,1 @@
-# icecreems-online-shopping-project
+# icecreems-online-shopping
